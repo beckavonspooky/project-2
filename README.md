@@ -27,7 +27,8 @@
 * Node.js
 * HTML5
 * CSS
-* Javascript
+* Javascript Es6
+* Adobe Xd
 * Heroku
 
 ![Image of game play screen](https://i.imgur.com/AMnY7sb.png)
